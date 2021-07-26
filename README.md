@@ -9,4 +9,33 @@
     </tr>
 </table>
 
-# Em Breve....
+# Firebase - FireStore
+
+## Cloud FireStore 
+Com ele conseguimos armazenar dados no Servidor, ou seja, conseguimos usar um banco de dados que vai estar no servidor. 
+<br />
+## Autenticação 
+Gerenciar autenticação de Usuarios
+<br />
+## Cloud Storage
+Armazenar Arquivos na Nuvem, imagens...
+<br />
+## Cloud Functions 
+é Uma funcionalidade do firebase que permite que criamos e rodamos funções no Firebase
+
+# Topicos Aprendidos com Codigo:
+
+- Criando nosso Primeiro Banco de Dados
+- Conectando o Firebase com JS
+- Lendo os dados do Firebase
+- Alteração de Valores
+- Trabalhando com adição e remoção de Array no Banco de Dados
+- Como Incrementar Algo
+- Clico de Vida
+- Apagando Campos do Documento
+- Criação de Usuarios
+- Gerenciamento de Login
+- Persistencia do Nosso Usuario, como Nosso Login Vai ser Tratado
+- Regras de Seguranças
+- Permissão e Regras
+- Permissão Para Quando o Usuario Estiver Logado
